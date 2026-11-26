@@ -41,7 +41,7 @@ Currently, I am looking for an opportunity as a **Junior Software Developer or B
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=1800&pause=500&color=FF8C00&center=true&vCenter=true&width=450&height=30&lines=%5B%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%5D+100%25;SYSTEM+READY...;OPEN+TO+WORK+%7C+2026" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=500&color=FF8C00&center=true&vCenter=true&width=650&height=30&lines=%5B%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%5D+100%25;SYSTEM+READY...;OPEN+TO+WORK+%7C+2026" />
 </p>
 
 
