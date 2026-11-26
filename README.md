@@ -1,212 +1,199 @@
  <div align="center">
 
-# 🟠 SEBASTIAN RAMIREZ PARRA
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111111,50:7c2d12,100:ff7900&text=SEBASTIAN%20RAMIREZ&fontColor=ffffff&fontSize=48&fontAlignY=45&desc=SYSTEMS%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=65&animation=fadeIn" width="100%" />
 
-### 🎮 SYSTEMS ENGINEER | SOFTWARE DEVELOPER
+<a href="https://github.com/sebas830">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF7900&center=true&vCenter=true&width=700&height=45&lines=Backend+Development;Software+Engineering;Microservices+%26+APIs;Database+Management;Process+Automation" alt="Typing SVG" />
+</a>
 
-**`LEVEL UP YOUR CODE`**
+<br/>
 
-*Building solutions, learning every day, and turning ideas into code.*
-
-![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-ff7900?style=for-the-badge)
-![Systems Engineer](https://img.shields.io/badge/ROLE-SYSTEMS%20ENGINEER-202020?style=for-the-badge)
-![Colombia](https://img.shields.io/badge/LOCATION-COLOMBIA-ff7900?style=for-the-badge)
-
-[📧 Contact me](mailto:sebasramirez830@gmail.com) • [💻 GitHub](https://github.com/sebas830)
+<img src="https://img.shields.io/badge/OPEN_TO_WORK-FF7900?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/COLOMBIA-202020?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/SYSTEMS_ENGINEER-FF7900?style=for-the-badge&labelColor=111111" />
 
 </div>
 
 ---
 
-## 🕹️ PLAYER PROFILE
+## ABOUT ME
 
-```text
-╔══════════════════════════════════════════╗
-║             PLAYER INFORMATION           ║
-╠══════════════════════════════════════════╣
-║  NAME       : Sebastian Ramirez Parra    ║
-║  CLASS      : Systems Engineer            ║
-║  SPECIALTY  : Software Development        ║
-║  LOCATION   : Colombia                    ║
-║  STATUS     : Searching for opportunities ║
-║  OBJECTIVE  : Build. Learn. Improve.      ║
-╚══════════════════════════════════════════╝
-```
+I am a Systems Engineer graduated from Universidad Uniremington, passionate about software development, backend engineering, database management and process automation.
 
-Ingeniero de Sistemas, graduado de la Universidad Uniremington, con conocimientos en desarrollo de software, bases de datos, análisis de información y automatización de procesos.
+I have developed academic and personal projects involving REST APIs, microservices architecture, authentication systems, database integration and containerization.
 
-Me interesa construir soluciones tecnológicas que resuelvan problemas reales. He trabajado en proyectos académicos y personales utilizando diferentes tecnologías, explorando desde el desarrollo backend y la arquitectura de microservicios hasta la automatización de procesos.
+I enjoy solving problems through technology, learning new tools and building solutions that provide real value.
 
-Me caracterizo por mi capacidad de aprendizaje, responsabilidad, pensamiento lógico y disposición para enfrentar nuevos retos.
+Currently, I am looking for an opportunity as a **Junior Software Developer or Backend Developer**, where I can contribute my technical knowledge, develop my skills and grow professionally.
 
-**Actualmente estoy buscando mi primera oportunidad profesional en tecnología**, donde pueda aportar mis conocimientos, fortalecer mis habilidades y crecer como desarrollador.
+- Location: Colombia
+- Education: Systems Engineering
+- University: Universidad Uniremington
+- English: B2
+- Availability: Open to professional opportunities
 
 ---
 
-## ⚔️ SKILL TREE
+## TECH STACK
 
-*Unlocking new abilities every day.*
+<div align="center">
 
-**💻 Programming Languages**
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ff7900?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python&logoColor=ff7900)
-![SQL](https://img.shields.io/badge/SQL-ff7900?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
 
-**⚙️ Frameworks & Backend**
+### Backend & Frameworks
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-202020?style=for-the-badge&logo=springboot&logoColor=ff7900)
-![FastAPI](https://img.shields.io/badge/FastAPI-ff7900?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask&theme=dark" />
 
-**🗄️ Databases**
+### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff7900?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-202020?style=for-the-badge&logo=mongodb&logoColor=ff7900)
-![MySQL](https://img.shields.io/badge/MySQL-ff7900?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-202020?style=for-the-badge&logo=redis&logoColor=ff7900)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
 
-**🐳 Tools & Automation**
+### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-ff7900?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git&logoColor=ff7900)
-![GitHub](https://img.shields.io/badge/GitHub-ff7900?style=for-the-badge&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-202020?style=for-the-badge&logo=n8n&logoColor=ff7900)
-![Excel](https://img.shields.io/badge/Excel-ff7900?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" />
+
+### Automation & Productivity
+
+<img src="https://img.shields.io/badge/n8n-FF7900?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-202020?style=for-the-badge&logo=microsoftexcel&logoColor=FF7900" />
+<img src="https://img.shields.io/badge/SQL-FF7900?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
 
 ---
 
-## 🏆 MAIN QUESTS — FEATURED PROJECTS
+## FEATURED PROJECTS
 
-*Every project is another level completed.*
+### 01. MesaNova — Restaurant Reservation System
 
-### 🥇 01. MesaNova — Restaurant Reservation System
+**Technologies:** Python, FastAPI, Flask, PostgreSQL, MongoDB, Redis, Docker, Pytest.
 
-**`MICROSERVICES · BACKEND · DATABASES`**
+A restaurant management and reservation platform developed using a microservices architecture.
 
-A restaurant reservation platform developed as an academic graduation project.
-
-- Microservices-based architecture.
-- Backend services developed with Python, FastAPI and Flask.
+- Backend services developed with FastAPI and Flask.
 - Authentication and user management.
 - Restaurant, menu and reservation management.
-- Integration with PostgreSQL, MongoDB and Redis.
-- Docker containerization.
+- Integration with relational and NoSQL databases.
+- Containerization using Docker.
 - Automated testing with Pytest.
-- Technical documentation with MkDocs.
+- Technical documentation using MkDocs.
 
-[🟠 VIEW SOURCE CODE](https://github.com/sebas830/reservas-restaurantes)
+[View repository](https://github.com/sebas830/reservas-restaurantes)
 
-### 🥈 02. CodeKids — Programming Learning Platform
+---
 
-**`EDTECH · SOFTWARE DEVELOPMENT · EDUCATION`**
+### 02. CodeKids — Programming Learning Platform
 
-A learning platform designed to introduce children and young people to programming through interactive experiences.
+**Technologies:** JavaScript, Web Development, Authentication.
+
+An educational platform designed to introduce children and young people to programming through interactive learning experiences.
 
 - User registration and authentication.
-- Private routes and user management.
-- Learning labs focused on Java.
+- Protected routes and user management.
+- Interactive Java learning labs.
 - Progress tracking and learning streaks.
-- Interactive educational experience.
 - Focus on computational thinking and digital inclusion.
 
-[🟠 VIEW SOURCE CODE](https://github.com/sebas830/CodeKids)
+[View repository](https://github.com/sebas830/CodeKids)
 
-### 🥉 03. Banking Management System
+---
 
-**`JAVA · SPRING BOOT · SPRING SECURITY`**
+### 03. Banking Management System
+
+**Technologies:** Java, Spring Boot, Spring Security, H2, Thymeleaf.
 
 An academic banking application focused on backend development and secure access management.
 
-- User authentication and authorization.
+- Authentication and authorization.
 - Role-based access control.
-- Spring Security integration.
 - Password encryption with BCrypt.
 - Database integration.
-- Backend development using Java and Spring Boot.
+- Secure application architecture.
 
-### 🎯 04. Library Management System
+### 04. Library Management System
 
-**`JAVA · SPRING BOOT · DATABASES`**
+**Technologies:** Java, Spring Boot, SQL, Thymeleaf.
 
-A system developed to manage library operations and information.
+A library management application designed to organize information and simplify administrative operations.
 
 - CRUD operations.
-- Data management and organization.
+- Data persistence.
+- Information management.
+- Object-oriented programming.
 - Backend development with Spring Boot.
-- Database integration.
-- Application of object-oriented programming principles.
 
-### 🧡 05. MiControl — Personal Finance App
+### 05. MiControl — Personal Finance Application
 
-**`ANDROID · MOBILE DEVELOPMENT · FINTECH`**
+**Technologies:** Android, Java/Kotlin exploration, mobile development.
 
-A personal project focused on helping users organize and understand their finances.
+A personal finance application designed to organize income, expenses and financial goals.
 
-- Income and expense management.
+- Income and expense tracking.
 - Expense categorization.
-- Monthly financial statistics.
+- Monthly statistics.
 - Budgets and savings goals.
-- Data filtering and export.
-- Financial information visualization.
+- Financial data filtering and export.
 
 ---
 
-## 🎖️ ACHIEVEMENTS & EDUCATION
-
-| Achievement | Status |
-|---|---|
-| 🎓 Systems Engineering — Universidad Uniremington | Completed · 2026 |
-| 💻 Software Development — SENA | Completed · 2021 |
-| 🌎 English | B2 |
-| ⚙️ Software Development Projects | Completed |
-| 🐳 Docker & Microservices | Practical experience |
-| 🤖 Process Automation | n8n |
-
----
-
-## 📊 PLAYER STATISTICS
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sebas830&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff7900&icon_color=ff7900&text_color=ffffff&border_color=ff7900&hide_border=false" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sebas830&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7900&icon_color=FF7900&text_color=FFFFFF&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas830&layout=compact&theme=dark&bg_color=0d1117&title_color=ff7900&text_color=ffffff&border_color=ff7900" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebas830&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7900&text_color=FFFFFF" />
 
-<img src="https://streak-stats.demolab.com?user=sebas830&theme=dark&background=0d1117&ring=ff7900&fire=ff7900&currStreakLabel=ff7900&sideLabels=ffffff&border=ff7900" width="75%" />
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sebas830&hide_border=true&background=0D1117&ring=FF7900&fire=FF7900&currStreakLabel=FF7900&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" />
 
 </div>
 
 ---
 
-## 🚀 CURRENT MISSIONS
+## CURRENT FOCUS
 
 ```text
-[ IN PROGRESS ] Improving backend development skills
-[ IN PROGRESS ] Exploring automation and new technologies
-[ IN PROGRESS ] Building personal software projects
-[ NEXT LEVEL  ] Growing as a professional developer
-[ MAIN GOAL  ] Getting my first opportunity in tech
+[01] Backend development and REST API design
+[02] Database management and optimization
+[03] Microservices and Docker
+[04] Process automation with n8n
+[05] Continuous learning and professional growth
 ```
 
 ---
 
-## 🤝 LET'S BUILD SOMETHING TOGETHER!
+## EDUCATION & CERTIFICATIONS
 
-I'm open to opportunities, collaborations, internships and junior developer positions.
+| Education | Institution | Year |
+|---|---|---|
+| Systems Engineering | Universidad Uniremington | 2026 |
+| Software Development | SENA | 2021 |
 
-If you're looking for someone motivated, responsible, eager to learn and ready to take on new challenges, let's connect!
+---
+
+## CONTACT
 
 <div align="center">
 
-### 🟠 PRESS START TO CONNECT
+**Interested in working together?**
 
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT%20ME-ff7900?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasramirez830@gmail.com)
+I am open to junior developer opportunities, technical collaborations and projects where I can contribute and continue learning.
 
-[![GitHub](https://img.shields.io/badge/GITHUB-SEBAS830-202020?style=for-the-badge&logo=github&logoColor=ff7900)](https://github.com/sebas830)
+<a href="mailto:sebasramirez830@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF7900?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/sebas830">
+<img src="https://img.shields.io/badge/GITHUB-202020?style=for-the-badge&logo=github&logoColor=FF7900" />
+</a>
 
-**"Every expert was once a beginner. Keep learning. Keep building. Keep leveling up."**
+<br/><br/>
 
-<sub>© 2026 Sebastian Ramirez Parra | Built with 🧡 and code.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7900,100:111111&height=110&section=footer" width="100%" />
+
+<sub>Building solutions. Improving skills. Creating opportunities.</sub>
 
 </div>
