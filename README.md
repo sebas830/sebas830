@@ -16,21 +16,32 @@
 
 ---
 
-## ABOUT ME
 
-I am a Systems Engineer graduated from Universidad Uniremington, passionate about software development, backend engineering, database management and process automation.
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=FF8C00&vCenter=true&width=400&lines=ABOUT+ME;BACKEND+DEVELOPER;SYSTEMS+ENGINEER" />
 
-I have developed academic and personal projects involving REST APIs, microservices architecture, authentication systems, database integration and containerization.
+I am a **Systems Engineer** graduated from **Universidad Uniremington**, passionate about software development, backend engineering, database management and process automation.
+
+I have developed academic and personal projects involving **REST APIs, microservices architecture, authentication systems, database integration and containerization**.
 
 I enjoy solving problems through technology, learning new tools and building solutions that provide real value.
 
 Currently, I am looking for an opportunity as a **Junior Software Developer or Backend Developer**, where I can contribute my technical knowledge, develop my skills and grow professionally.
 
-- Location: Colombia
-- Education: Systems Engineering
-- University: Universidad Uniremington
-- English: B2
-- Availability: Open to professional opportunities
+---
+
+### <span style="color:#FF8C00">PROFILE INFORMATION</span>
+
+- **Location:** Colombia
+- **Education:** Systems Engineering
+- **University:** Universidad Uniremington
+- **Availability:** Open to professional opportunities
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF8C00?style=for-the-badge&labelColor=111111" />
+</p>
+
 
 ---
 
