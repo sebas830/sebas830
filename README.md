@@ -17,7 +17,9 @@
 ---
 
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=FF8C00&vCenter=true&width=400&lines=ABOUT+ME;BACKEND+DEVELOPER;SYSTEMS+ENGINEER" />
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=400&lines=ABOUT+ME;BACKEND+DEVELOPER;SYSTEMS+ENGINEER" alt="About me" />
+</h2>
 
 I am a **Systems Engineer** graduated from **Universidad Uniremington**, passionate about software development, backend engineering, database management and process automation.
 
@@ -39,13 +41,15 @@ Currently, I am looking for an opportunity as a **Junior Software Developer or B
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF8C00?style=for-the-badge&labelColor=111111" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=1800&pause=500&color=FF8C00&center=true&vCenter=true&width=450&height=30&lines=%5B%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%5D+100%25;SYSTEM+READY...;OPEN+TO+WORK+%7C+2026" />
 </p>
 
 
 ---
 
-## TECH STACK
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=400&lines=TECH+STACK" alt="TECH STACK" />
+</h2>
 
 <div align="center">
 
@@ -75,7 +79,9 @@ Currently, I am looking for an opportunity as a **Junior Software Developer or B
 
 ---
 
-## FEATURED PROJECTS
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=400&lines=FEATURED+PROJECTS" alt="FEATURED PROJECTS" />
+</h2>
 
 ### 01. MesaNova — Restaurant Reservation System
 
@@ -149,7 +155,9 @@ A personal finance application designed to organize income, expenses and financi
 
 ---
 
-## GITHUB ANALYTICS
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=400&lines=GITHUB+ANALYTICS" alt="GITHUB ANALYTICS" />
+</h2>
 
 <div align="center">
 
@@ -165,7 +173,9 @@ A personal finance application designed to organize income, expenses and financi
 
 ---
 
-## CURRENT FOCUS
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=400&lines=CURRENT+FOCUS" alt="CURRENT FOCUS" />
+</h2>
 
 ```text
 [01] Backend development and REST API design
@@ -177,7 +187,9 @@ A personal finance application designed to organize income, expenses and financi
 
 ---
 
-## EDUCATION & CERTIFICATIONS
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=EDUCATION+%26+CERTIFICATIONS" alt="EDUCATION & CERTIFICATIONS" />
+</h2>
 
 | Education | Institution | Year |
 |---|---|---|
@@ -186,7 +198,10 @@ A personal finance application designed to organize income, expenses and financi
 
 ---
 
-## CONTACT
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=CONTACT" alt="CONTACT" />
+</h2>
 
 <div align="center">
 
