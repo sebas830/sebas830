@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="./assets/banner.svg" alt="Sebastian Ramirez - Systems Engineer / Software Developer" width="100%"/>
 
@@ -17,20 +17,20 @@
 ## PANTALLA DE INICIO
 
 ```text
-╔══════════════════════════════════════════════╗
-║              P L A Y E R   1                 ║
-╠══════════════════════════════════════════════╣
-║  NOMBRE   : SEBASTIAN RAMIREZ                ║
-║  CLASE    : INGENIERO DE SISTEMAS            ║
-║  SPEC     : DESARROLLO DE SOFTWARE           ║
-║  GREMIO   : UNIREMINGTON                     ║
-║  ESTADO   : [ON] DISPONIBLE PARA MISION      ║
-║  MODO     : APRENDER / CREAR / MEJORAR       ║
-╚══════════════════════════════════════════════╝
+â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
+â•‘              P L A Y E R   1                 â•‘
+â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•£
+â•‘  NOMBRE   : SEBASTIAN RAMIREZ                â•‘
+â•‘  CLASE    : INGENIERO DE SISTEMAS            â•‘
+â•‘  SPEC     : DESARROLLO DE SOFTWARE           â•‘
+â•‘  GREMIO   : UNIREMINGTON                     â•‘
+â•‘  ESTADO   : [ON] DISPONIBLE PARA MISION      â•‘
+â•‘  MODO     : APRENDER / CREAR / MEJORAR       â•‘
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 ```
 
 > Transformar ideas en soluciones funcionales.
-> Ingeniero de Sistemas enfocado en desarrollo de software, bases de datos y automatización de procesos. Busco mi primer gran desafío como desarrollador junior.
+> Ingeniero de Sistemas enfocado en desarrollo de software, bases de datos y automatizaciÃ³n de procesos. Busco mi primer gran desafÃ­o como desarrollador junior.
 
 <div align="center">
 <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -90,9 +90,9 @@ Sistema de reservas para restaurantes desarrollado como proyecto de grado.
 | Objetivo | Armas usadas |
 |---|---|
 | Arquitectura de microservicios | Python, FastAPI, Flask |
-| Gestión de usuarios, restaurantes y reservas | PostgreSQL, MongoDB, Redis |
+| GestiÃ³n de usuarios, restaurantes y reservas | PostgreSQL, MongoDB, Redis |
 | Despliegue reproducible | Docker |
-| Calidad del código | Pruebas automatizadas |
+| Calidad del cÃ³digo | Pruebas automatizadas |
 
 [ACCEDER AL REPOSITORIO](https://github.com/sebas830/reservas-restaurantes)
 
@@ -103,11 +103,11 @@ Sistema de reservas para restaurantes desarrollado como proyecto de grado.
 
 <br/>
 
-Plataforma educativa para niños y jóvenes que quieren aprender programación desde cero.
+Plataforma educativa para niÃ±os y jÃ³venes que quieren aprender programaciÃ³n desde cero.
 
 - Aprendizaje visual de Java
-- Registro e inicio de sesión
-- Laboratorios de programación
+- Registro e inicio de sesiÃ³n
+- Laboratorios de programaciÃ³n
 - Seguimiento del progreso de aprendizaje
 
 [ACCEDER AL REPOSITORIO](https://github.com/sebas830/CodeKids)
@@ -119,11 +119,11 @@ Plataforma educativa para niños y jóvenes que quieren aprender programación d
 
 <br/>
 
-Aplicación móvil (Kotlin) para administrar las finanzas personales y controlar ingresos y gastos.
+AplicaciÃ³n mÃ³vil (Kotlin) para administrar las finanzas personales y controlar ingresos y gastos.
 
 - Registro de movimientos financieros
-- Categorías de gastos
-- Estadísticas y gráficos
+- CategorÃ­as de gastos
+- EstadÃ­sticas y grÃ¡ficos
 - Presupuestos y seguimiento mensual
 
 </details>
@@ -131,7 +131,7 @@ Aplicación móvil (Kotlin) para administrar las finanzas personales y controlar
 ### MISIONES SECUNDARIAS
 
 <details>
-<summary><b>Automatización con n8n</b> | <code>SIDE QUEST</code></summary>
+<summary><b>AutomatizaciÃ³n con n8n</b> | <code>SIDE QUEST</code></summary>
 
 <br/>
 
@@ -178,13 +178,13 @@ Flujos de trabajo automatizados para eliminar tareas repetitivas.
 ## LOGROS
 
 ```text
-[DESBLOQUEADO]  Título de Ingeniero de Sistemas
-[DESBLOQUEADO]  Construí un proyecto de microservicios
-[DESBLOQUEADO]  Creé una plataforma educativa
-[DESBLOQUEADO]  Desarrollé una app móvil
-[DESBLOQUEADO]  Automaticé procesos con n8n
+[DESBLOQUEADO]  TÃ­tulo de Ingeniero de Sistemas
+[DESBLOQUEADO]  ConstruÃ­ un proyecto de microservicios
+[DESBLOQUEADO]  CreÃ© una plataforma educativa
+[DESBLOQUEADO]  DesarrollÃ© una app mÃ³vil
+[DESBLOQUEADO]  AutomaticÃ© procesos con n8n
 [EN PROGRESO ]  Primer empleo como desarrollador
-[EN PROGRESO ]  Expandir mi árbol de habilidades
+[EN PROGRESO ]  Expandir mi Ã¡rbol de habilidades
 ```
 
 ## MISION ACTUAL
@@ -201,7 +201,7 @@ Flujos de trabajo automatizados para eliminar tareas repetitivas.
 
 ## INVITA AL JUGADOR A TU EQUIPO
 
-¿Buscas un desarrollador junior con ganas de subir de nivel? Abre un chat:
+Â¿Buscas un desarrollador junior con ganas de subir de nivel? Abre un chat:
 
 <div align="center">
 
